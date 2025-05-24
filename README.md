@@ -1,2 +1,2 @@
 # Adaptive-View-Selection-for-Object-Representation
-Application of Numerical Linear Algebra | Python implementation
+Here I have implemented an incremental eigenspace update algorithm based on the paper [An Eigenspace Update Algorithm for Image Analysis](https://www.sciencedirect.com/science/article/abs/pii/S1077316997904251). 
